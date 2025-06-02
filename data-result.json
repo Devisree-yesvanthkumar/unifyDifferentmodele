@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1697360445123,
+    "message": "User authentication successful",
+    "value": 200,
+    "source": "format_2",
+    "metadata": {
+      "user_id": "user123",
+      "session": "sess_abc"
+    }
+  },
+  {
+    "timestamp": 1697360460456,
+    "message": "Data processing completed",
+    "value": 150,
+    "source": "format_2",
+    "metadata": {
+      "user_id": "user123",
+      "session": "sess_abc"
+    }
+  },
+  {
+    "timestamp": 1697360475789,
+    "message": "Request processed successfully",
+    "value": 180,
+    "source": "format_2",
+    "metadata": {
+      "user_id": "user456",
+      "session": "sess_xyz"
+    }
+  },
+  {
+    "timestamp": 1697374245123,
+    "message": "System initialization started",
+    "value": 100,
+    "source": "format_1",
+    "metadata": {
+      "system": "server-01",
+      "location": "datacenter-a"
+    }
+  },
+  {
+    "timestamp": 1697374250456,
+    "message": "Database connection established",
+    "value": 95,
+    "source": "format_1",
+    "metadata": {
+      "system": "server-01",
+      "location": "datacenter-a"
+    }
+  },
+  {
+    "timestamp": 1697374255789,
+    "message": "Service ready to accept requests",
+    "value": 98,
+    "source": "format_1",
+    "metadata": {
+      "system": "server-01",
+      "location": "datacenter-a"
+    }
+  }
+]

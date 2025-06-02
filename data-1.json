@@ -1,0 +1,29 @@
+[
+    {
+      "timestamp": 1697374245123,
+      "message": "System initialization started",
+      "value": 100,
+      "metadata": {
+        "system": "server-01",
+        "location": "datacenter-a"
+      }
+    },
+    {
+      "timestamp": 1697374250456,
+      "message": "Database connection established",
+      "value": 95,
+      "metadata": {
+        "system": "server-01",
+        "location": "datacenter-a"
+      }
+    },
+    {
+      "timestamp": 1697374255789,
+      "message": "Service ready to accept requests",
+      "value": 98,
+      "metadata": {
+        "system": "server-01",
+        "location": "datacenter-a"
+      }
+    }
+  ]
